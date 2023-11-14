@@ -1,0 +1,1 @@
+Nesses dois cursos, explorei as bibliotecas principais de visualização de dados do Python, matiplotlib e seaborn. Revisei conteúdos para criação de figuras, manipulação dos eixos, subplots e, por fim, explorei tambéma a criação de gráficos interativos com a biblioteca plotly.
