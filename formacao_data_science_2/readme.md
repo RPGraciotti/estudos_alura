@@ -16,3 +16,5 @@ Esse módulo aprofundou o estudo nas funcionalidades do pandas, com foco em como
 
 
 Um forte abraço, e continue me acompanhando nessa jornada!
+
+[Certificado](https://github.com/RPGraciotti/estudos_alura/blob/main/formacao_data_science_2/Rodolfo%20P.%20Graciotti%20-%20Forma%C3%A7%C3%A3o%20Python%20para%20Data%20Science%20-%20Alura.pdf)
