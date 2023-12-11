@@ -12,21 +12,21 @@
 
 -- Criar novamente para continuidade do exercício
 
--- CREATE TABLE tabela_clientes (
---     ID_Cliente INT PRIMARY KEY,
---     Nome_Cliente VARCHAR(250),
---     Informacoes_de_Contato VARCHAR (250)
--- );
+CREATE TABLE tabela_clientes (
+    ID_Cliente INT PRIMARY KEY,
+    Nome_Cliente VARCHAR(250),
+    Informacoes_de_Contato VARCHAR (250)
+);
 
--- ALTER TABLE tabela_clientes ADD Endereco_cliente VARCHAR (250);
+ALTER TABLE tabela_clientes ADD Endereco_cliente VARCHAR (250);
 
 -- Chave primária: não existe duplicidade, identificador principal
 
--- CREATE TABLE tabela_categorias (
---     ID_Categoria INT PRIMARY KEY,
---     Nome_Categoria VARCHAR (250),
---     Descricao_Categoria TEXT
--- );
+CREATE TABLE tabela_categorias (
+    ID_Categoria INT PRIMARY KEY,
+    Nome_Categoria VARCHAR (250),
+    Descricao_Categoria TEXT
+);
 
 -- Chave estrangeira
 
