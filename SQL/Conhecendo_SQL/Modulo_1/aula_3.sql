@@ -1,3 +1,5 @@
+-- Inserindo dados
+
 INSERT INTO tabela_clientes (
     ID_Cliente,
     Nome_Cliente,
