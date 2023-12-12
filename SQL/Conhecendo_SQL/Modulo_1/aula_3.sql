@@ -1,4 +1,4 @@
--- Inserindo dados
+-- Aula 3 - Inserindo dados
 
 INSERT INTO tabela_clientes (
     ID_Cliente,
